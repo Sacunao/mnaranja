@@ -79,15 +79,3 @@ Sólo se tiene que seguir estos 3 pasos:
 HOME
 
 ![Imagen](http://3.1m.yt/xuAa0Uz.png "Imagen")
-
-VISTAS CHAT
-
-![Imagen](http://3.1m.yt/MrbFxMG.png"Imagen")
-
-![Imagen](http://2.1m.yt/ELcGtbU.png"Imagen")
-
-![Imagen](http://2.1m.yt/WesRceo.png"Imagen")
-
-![Imagen](http://2.1m.yt/1iWPNlm.png"Imagen")
-
-![Imagen](http://2.1m.yt/GMOSgpr.png"Imagen")
