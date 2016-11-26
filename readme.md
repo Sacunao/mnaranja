@@ -10,7 +10,7 @@ Antecedentes:
 
 La era digital ha cambiado la manera en que las personas se comunican. Con el alcance global, se puede llegar a cualquier lugar a través de la pantalla y conocer mucha gente sin salir de casa. No de es extrañar entonces que también se comience a buscar el amor por este canal.
 
-Según estudios, en el Perú solo el 12% de las personas han utilizado una página de citas online para buscar pareja. Por esto, Neira encuentra gran potencial de crecimiento en este sector del mercado, ya que en menos de seis meses pudieron llegar a los 55,000 usuarios, en donde el 35% son madres solteras y profesionales en busca de una pareja seria.
+Según estudios, en el Perú solo el 12% de las personas han utilizado una página de citas online para buscar pareja. Por esto, existe un gran potencial de crecimiento en este sector del mercado, en donde el 35% son madres solteras y profesionales en busca de una pareja seria.
 
 Referencia: http://bit.ly/1hhyieb
 
