@@ -1,5 +1,4 @@
 #PROYECTO MEDIA NARANJA
-<hr>
 
 ![Imagen](http://3.1m.yt/sWrE0gi.png "Imagen")
 
@@ -60,7 +59,11 @@ USUARIO ABANDONA EL CHAT
 
 ![Imagen](http://2.1m.yt/bdL6vM2.jpg "Imagen")
 
-###CONTENIDO
+###CONTENIDO , VISTAS DE LA PÁGINA Y MODO DE USO
+
+HOME
+
+![Imagen](http://3.1m.yt/xuAa0Uz.png "Imagen")
 
 Página ofrece a sus usuarios la posibilidad de tener encontrar una pareja y hacer match, pero es a libertad del usuario, ya que él elige a quien enviar el link del chat privado y el otro usuario también elige si acepta la solicitud.
 
@@ -68,14 +71,37 @@ Sólo se tiene que seguir estos 3 pasos:
 
 ![Imagen](http://2.1m.yt/GiAhdZE.png "Imagen")
 
+1er Eligir a la persona que te gusta
+
+![Imagen](http://4.1m.yt/Zb1puds.png "Imagen")
+
+2do Ve a la opción de chat privado en la parte inferior
+
+![Imagen](http://2.1m.yt/2T2fv4I.png "Imagen")
+
+3ero Ingresa tu usuario
+
+![Imagen](http://3.1m.yt/uxdIDNN.png "Imagen")
+
+4to guarda el link y enviaselo por correo a tu pareja elegida y debes esperar ser respondido por tu match, pero en nuestro caso podemos abrirlo desde una ventana en incógnito o enviar a un amigo por otro medio para pobrar la funcionalidad del chat.
+
+![Imagen](http://1.1m.yt/15ZB7gB.png "Imagen")
+
+5to la persona que recibe el link será invitado a conectar contigo
+
+![Imagen](http://2.1m.yt/lSWpAV3.png "Imagen")
+
+6to pueden hablar libremente
+
+![Imagen](http://1.1m.yt/x9v_Fcj.png "Imagen")
+
+7mo Si alguno de ustedes deja el chat el otro usuario será avisado
+
+![Imagen](http://1.1m.yt/2NKIjss.png "Imagen")
 
 ###REQUERIMIENTOS
 
 * Utilizar Socket.io
 * Crear un repositorio en Heroku
 
-###VISTAS DE LA PÁGINA
 
-HOME
-
-![Imagen](http://3.1m.yt/xuAa0Uz.png "Imagen")
